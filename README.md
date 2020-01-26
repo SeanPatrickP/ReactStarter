@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Project intends to give an overview to props and state within react, aswell as ag-Grid fundamentals
+
 ## Available Scripts
 
 In the project directory, you can run:
